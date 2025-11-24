@@ -1,4 +1,5 @@
 adicionar_estoque.php
+
 <?php
 include 'config.php';
 session_start();
