@@ -30,7 +30,7 @@ A plataforma é um **site desenvolvido para o controle de materiais de informát
 
 - Matheus Santos  
 - Isaque Lima
-- 
+  
 ## 👩‍🏫 Professores Orientadores
 
 - Denise Moraes
