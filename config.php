@@ -1,4 +1,4 @@
-config.php
+
 <?php
 $host = 'localhost';
 $db   = 'escola';    // seu banco de dados
